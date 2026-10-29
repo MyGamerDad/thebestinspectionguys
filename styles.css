@@ -48,7 +48,7 @@ button{font:inherit}
 .email-button{background:linear-gradient(135deg,#078cec,#06418d)}
 .email-button strong{font-size:clamp(12px,1vw,17px);letter-spacing:-.03em}
 .hero-visual{position:relative;align-self:stretch;min-height:440px;margin:-2px -24px 0 -20px;overflow:hidden;border-radius:0 0 28px 65px;background:#dcf5ff;box-shadow:16px 16px 25px rgba(4,55,115,.06)}
-.hero-photo{position:absolute;inset:0 0 26% 0;background-image:url("assets/property-hero.webp");background-size:cover;background-position:55% 35%;transform:scale(1.04)}
+.hero-photo{position:absolute;inset:0 0 26% 0;background-image:url("property-hero.webp");background-size:cover;background-position:55% 35%;transform:scale(1.04)}
 .hero-photo::after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(255,255,255,.15),transparent 25%)}
 .photo-overlay{position:absolute;bottom:0;left:0;right:0;height:35%;background:linear-gradient(175deg,transparent 0 36%,white 37% 100%)}
 .visual-swoosh{position:absolute;right:-10%;width:118%;height:80px;border-radius:50% 2% 0 0;transform:rotate(-7deg);pointer-events:none}
